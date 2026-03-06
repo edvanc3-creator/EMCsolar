@@ -1,0 +1,8 @@
+{
+  "name": "EMCSolarInstall Pro",
+  "description": "Plataforma completa para instaladores de energia solar: vistorias, orçamentos, relatórios com fotos e assinatura digital.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
